@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Unit" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAECwABEkAAAAAIAogBCEAAAjAgEAKIYCCZCATSAEw=</HashCode>
+      <FileName>Assets\Scripts\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyUnit" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStructure" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUSAFAIAiAAAABgBAIEAAAAAEAEJACAIABAEAgCAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerStructure.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PlayerUnit" Collapsed="true">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQkAAABACCAAQAAAAAAAAAAAAAAAAAACEAAAgAAgEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Harvester" Collapsed="true">
+    <Position X="7.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAIAjCBEQAAAEAAAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Harvester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoldierControls" Collapsed="true">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SoldierControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerPlant" Collapsed="true">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAACACAAAAAAMBAAAEAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PowerPlant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefenseTower_Enemy" Collapsed="true">
+    <Position X="0.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DefenseTower_Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpiderControls" Collapsed="true">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAACAAAQAAAAAAAAAAAAAAAACAAQAAAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\SpiderControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyFlyingUnit" Collapsed="true">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiAAAAAAAAAIAAAAAAAAAADAAwAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\EnemyFlyingUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManager" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NARCACAAIQAAEEAAAosQAQAEAZIAAQAIQUBACDAAAEA=</HashCode>
+      <FileName>Assets\Scripts\LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MessagingManager" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAACAAAAAAAAAgAAAUAAAQBAAAAAAAAABAAEA=</HashCode>
+      <FileName>Assets\Scripts\MessagingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicManager" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAAAAAAEAEAAIEAAAAAAEMAAACAAAIBEA=</HashCode>
+      <FileName>Assets\Scripts\MusicManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorldMouseControls" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAQAAgAAACAAAUAAACAQgSCEggAAAACAAEAAACEAAAQ=</HashCode>
+      <FileName>Assets\Scripts\WorldMouseControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NexusAI" Collapsed="true">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAREABEBAiADECAANAAAIABIAhBAgUGAgAAAAEICgiA=</HashCode>
+      <FileName>Assets\Scripts\NexusAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CamControls" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACAAAAgBBgAAAAgAAAAAAEgABEAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CamControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStats" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAgAAAAAAAAAAEQEAAQAAAQAAoAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI_BuildingStats" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAADAACAAECDACAAAAAAKAAFAAAAABACAAAhAAAg=</HashCode>
+      <FileName>Assets\Scripts\UI_BuildingStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildButton" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAAAAAAAAACAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BuildButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Objective" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAgAAAAIAJAAQAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ObjectiveManager_Level1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
